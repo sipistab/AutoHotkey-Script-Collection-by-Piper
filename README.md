@@ -1,7 +1,9 @@
 # Piper's Windows Automation Utility
 
 ## Overview
-This script is the result of years spent automating the mundane and the meaningful on Windows. It is a living toolset. Practical, direct, and designed to serve without distraction. In sharing it, I aim to make your daily work more efficient and less wasteful.
+This utility is a streamlined set of Windows automation tools, built over years of practical scripting. It tackles real everyday tasks: faster navigation, fewer repetitive actions, and smart shortcuts that make my work cleaner and quicker. It’s easy to adapt, simple to customize, and designed to save time without adding clutter.
+
+It is a frequent occurrence that I am asked how I work so efficiently or to run workshops on my workflow. In the past, this meant hosting dedicated sessions to walk through tools and techniques. Over time, both the tools and my command of them have evolved to the point where I can simply share this repository instead. With just a few pointers, anyone can adopt my workflow, build their own shortcuts, and start automating more as their curiosity grows.
 
 ## Features
 - **Taskbar Navigation:** Instantly switch between pinned taskbar items with F1–F4.
@@ -57,9 +59,12 @@ Type `thedayidie` anywhere and the script will respond.
 - You can change hotkeys, hotstrings, and actions to suit your needs.
 - Passwords and sensitive data should be edited before use.
 
-## Safety & Customization
+## Customization and a word of warning
 - The script is open source and can be edited in any text editor.
-- Review and customize hotkeys and sensitive data (like passwords) before use. I use a password shorthand to simplify single-use test devices and environments, NOT to automate my logins to critical systems that contain personal or sensitive data—and so should you.
-  Use, modify, and share freely.
+- Review and customize hotkeys and sensitive data (like passwords) before use. I use a password shorthand to simplify single-use test devices and environments, NOT to automate my logins to critical systems that contain personal or sensitive data—and so should you. Be responsible and knowledgeable about the tools you employ, know the risks involved.
+ 
+ 
+ 
+Use, modify, and share freely.
 
 ---
