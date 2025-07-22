@@ -1,4 +1,4 @@
-# Piper's Windows Automation Utility
+# Piper’s Windows Efficiency Toolkit - AHK Script Collection
 
 ## Overview
 This utility is a streamlined set of Windows automation tools, built over years of practical scripting. It tackles real everyday tasks: faster navigation, fewer repetitive actions, and smart shortcuts that make my work cleaner and quicker. It’s easy to adapt, simple to customize, and designed to save time without adding clutter.
